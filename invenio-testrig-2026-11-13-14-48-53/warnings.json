@@ -1,0 +1,14 @@
+{
+  "config_name": "Invenio Testrig",
+  "patch_mode": "Upstream baseline (patches rebased on upstream, unpatched are upstream)",
+  "test_mode": "Test patched first, retry unpatched on failure",
+  "test_scope": "All packages",
+  "installation_mode": "Editable installation (development mode)",
+  "started_at": "2026-11-13 14:47:51 UTC",
+  "python_version": "3.14.10",
+  "last_updated": "2026-11-13 14:48:54 UTC",
+  "total_unique_warnings": 0,
+  "total_packages_with_warnings": 0,
+  "total_warning_occurrences": 0,
+  "warnings": []
+}

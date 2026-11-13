@@ -1,0 +1,243 @@
+{
+  "config_name": "Invenio Testrig",
+  "patch_mode": "Upstream baseline (patches rebased on upstream, unpatched are upstream)",
+  "test_mode": "Test patched first, retry unpatched on failure",
+  "test_scope": "All packages",
+  "installation_mode": "Editable installation (development mode)",
+  "started_at": "2026-11-13 14:47:51 UTC",
+  "python_version": "3.14.10",
+  "last_updated": "2026-11-13 14:48:54 UTC",
+  "status": "In Progress",
+  "status_class": "in-progress",
+  "status_icon": "\ud83d\udd04",
+  "completed": false,
+  "has_errors": false,
+  "packages": [],
+  "repository": {
+    "info": {
+      "reference": {
+        "org": "oarepo",
+        "repo": "inveniordm-reference-repo",
+        "package": "inveniordm-reference-repo",
+        "branch": "master",
+        "pr": null,
+        "base": null,
+        "pr_info": null,
+        "commit": "23ef074bf1d614492c1b9cff2a345930c85a2cf3",
+        "actual_version": null,
+        "commits_from_version": [
+          "23ef074bf1d614492c1b9cff2a345930c85a2cf3"
+        ]
+      },
+      "github_entry": {
+        "_extra": {},
+        "org": "oarepo",
+        "test": [],
+        "install": [],
+        "include": [],
+        "exclude": [],
+        "package_map": {},
+        "extras": [],
+        "freeze": [],
+        "slow_packages": {},
+        "default_branch": null
+      },
+      "patches": [],
+      "unpatched_reference": null,
+      "patched_reference": null
+    },
+    "artefact_dir": "artifacts/repo",
+    "patched": {
+      "status": "pending",
+      "package": {
+        "reference": {
+          "org": "oarepo",
+          "repo": "inveniordm-reference-repo",
+          "package": "inveniordm-reference-repo",
+          "branch": "master",
+          "pr": null,
+          "base": null,
+          "pr_info": null,
+          "commit": "23ef074bf1d614492c1b9cff2a345930c85a2cf3",
+          "actual_version": null,
+          "commits_from_version": [
+            "23ef074bf1d614492c1b9cff2a345930c85a2cf3"
+          ]
+        },
+        "github_entry": {
+          "_extra": {},
+          "org": "oarepo",
+          "test": [],
+          "install": [],
+          "include": [],
+          "exclude": [],
+          "package_map": {},
+          "extras": [],
+          "freeze": [],
+          "slow_packages": {},
+          "default_branch": null
+        },
+        "patches": [],
+        "unpatched_reference": null,
+        "patched_reference": null
+      },
+      "dependencies": []
+    },
+    "original": {
+      "status": "pending",
+      "package": {
+        "reference": {
+          "org": "oarepo",
+          "repo": "inveniordm-reference-repo",
+          "package": "inveniordm-reference-repo",
+          "branch": "master",
+          "pr": null,
+          "base": null,
+          "pr_info": null,
+          "commit": "23ef074bf1d614492c1b9cff2a345930c85a2cf3",
+          "actual_version": null,
+          "commits_from_version": [
+            "23ef074bf1d614492c1b9cff2a345930c85a2cf3"
+          ]
+        },
+        "github_entry": {
+          "_extra": {},
+          "org": "oarepo",
+          "test": [],
+          "install": [],
+          "include": [],
+          "exclude": [],
+          "package_map": {},
+          "extras": [],
+          "freeze": [],
+          "slow_packages": {},
+          "default_branch": null
+        },
+        "patches": [],
+        "unpatched_reference": null,
+        "patched_reference": null
+      },
+      "dependencies": []
+    },
+    "has_patched_junit": false,
+    "has_original_junit": false
+  },
+  "repository_e2e": {
+    "info": {
+      "reference": {
+        "org": "oarepo",
+        "repo": "inveniordm-reference-repo",
+        "package": "inveniordm-reference-repo",
+        "branch": "master",
+        "pr": null,
+        "base": null,
+        "pr_info": null,
+        "commit": "23ef074bf1d614492c1b9cff2a345930c85a2cf3",
+        "actual_version": null,
+        "commits_from_version": [
+          "23ef074bf1d614492c1b9cff2a345930c85a2cf3"
+        ]
+      },
+      "github_entry": {
+        "_extra": {},
+        "org": "oarepo",
+        "test": [],
+        "install": [],
+        "include": [],
+        "exclude": [],
+        "package_map": {},
+        "extras": [],
+        "freeze": [],
+        "slow_packages": {},
+        "default_branch": null
+      },
+      "patches": [],
+      "unpatched_reference": null,
+      "patched_reference": null
+    },
+    "artefact_dir": "artifacts/e2e",
+    "patched": {
+      "status": "pending",
+      "package": {
+        "reference": {
+          "org": "oarepo",
+          "repo": "inveniordm-reference-repo",
+          "package": "inveniordm-reference-repo",
+          "branch": "master",
+          "pr": null,
+          "base": null,
+          "pr_info": null,
+          "commit": "23ef074bf1d614492c1b9cff2a345930c85a2cf3",
+          "actual_version": null,
+          "commits_from_version": [
+            "23ef074bf1d614492c1b9cff2a345930c85a2cf3"
+          ]
+        },
+        "github_entry": {
+          "_extra": {},
+          "org": "oarepo",
+          "test": [],
+          "install": [],
+          "include": [],
+          "exclude": [],
+          "package_map": {},
+          "extras": [],
+          "freeze": [],
+          "slow_packages": {},
+          "default_branch": null
+        },
+        "patches": [],
+        "unpatched_reference": null,
+        "patched_reference": null
+      },
+      "dependencies": []
+    },
+    "original": {
+      "status": "pending",
+      "package": {
+        "reference": {
+          "org": "oarepo",
+          "repo": "inveniordm-reference-repo",
+          "package": "inveniordm-reference-repo",
+          "branch": "master",
+          "pr": null,
+          "base": null,
+          "pr_info": null,
+          "commit": "23ef074bf1d614492c1b9cff2a345930c85a2cf3",
+          "actual_version": null,
+          "commits_from_version": [
+            "23ef074bf1d614492c1b9cff2a345930c85a2cf3"
+          ]
+        },
+        "github_entry": {
+          "_extra": {},
+          "org": "oarepo",
+          "test": [],
+          "install": [],
+          "include": [],
+          "exclude": [],
+          "package_map": {},
+          "extras": [],
+          "freeze": [],
+          "slow_packages": {},
+          "default_branch": null
+        },
+        "patches": [],
+        "unpatched_reference": null,
+        "patched_reference": null
+      },
+      "dependencies": []
+    },
+    "has_patched_junit": false,
+    "has_original_junit": false
+  },
+  "regression_count": 0,
+  "still_failing_count": 0,
+  "total_packages_count": 0,
+  "patched_packages_count": 0,
+  "unpatched_packages_count": 0,
+  "ok_count": 0,
+  "packages_without_patches": [],
+  "patched_packages": [],
+  "packages_with_patched_dependencies": []
+}
